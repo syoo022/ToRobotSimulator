@@ -1,0 +1,8 @@
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Entities\bin\Debug\netcoreapp3.0\ToyRobotSimulator.Entities.deps.json
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Entities\bin\Debug\netcoreapp3.0\ToyRobotSimulator.Entities.dll
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Entities\bin\Debug\netcoreapp3.0\ToyRobotSimulator.Entities.pdb
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Entities\obj\Debug\netcoreapp3.0\ToyRobotSimulator.Entities.csprojAssemblyReference.cache
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Entities\obj\Debug\netcoreapp3.0\ToyRobotSimulator.Entities.AssemblyInfoInputs.cache
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Entities\obj\Debug\netcoreapp3.0\ToyRobotSimulator.Entities.AssemblyInfo.cs
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Entities\obj\Debug\netcoreapp3.0\ToyRobotSimulator.Entities.dll
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Entities\obj\Debug\netcoreapp3.0\ToyRobotSimulator.Entities.pdb
