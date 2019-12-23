@@ -1,0 +1,11 @@
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Domain\bin\Debug\netcoreapp3.0\ToyRobotSimulator.Domain.deps.json
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Domain\bin\Debug\netcoreapp3.0\ToyRobotSimulator.Domain.dll
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Domain\bin\Debug\netcoreapp3.0\ToyRobotSimulator.Domain.pdb
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Domain\obj\Debug\netcoreapp3.0\ToyRobotSimulator.Domain.csprojAssemblyReference.cache
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Domain\obj\Debug\netcoreapp3.0\ToyRobotSimulator.Domain.AssemblyInfoInputs.cache
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Domain\obj\Debug\netcoreapp3.0\ToyRobotSimulator.Domain.AssemblyInfo.cs
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Domain\obj\Debug\netcoreapp3.0\ToyRobotSimulator.Domain.dll
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Domain\obj\Debug\netcoreapp3.0\ToyRobotSimulator.Domain.pdb
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Domain\bin\Debug\netcoreapp3.0\ToyRobotSimulator.Entities.dll
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Domain\bin\Debug\netcoreapp3.0\ToyRobotSimulator.Entities.pdb
+C:\Users\joseph.yoon\source\repos\ToyRobotSimulator\ToyRobotSimulator.Domain\obj\Debug\netcoreapp3.0\ToyRobotSimulator.Domain.csproj.CopyComplete
